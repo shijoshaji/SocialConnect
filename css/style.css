@@ -1,6 +1,7 @@
 @import url("sections/header.css");
-@import url("sections/main-content.css");
 @import url("sections/left-right-sidebars.css");
+@import url("sections/main-content/story-section.css");
+@import url("sections/main-content/feed-section.css");
 
 
 :root {
