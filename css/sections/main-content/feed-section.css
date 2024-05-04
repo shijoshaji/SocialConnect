@@ -1,10 +1,13 @@
-.write-post-container{
+.write-post-container, .feeds-container{
     width: 100%;
     border-radius: 6px;
     background: #fff;
     padding: 20px;
     color: var(--secondary-text-color);
+    margin: 20px 0;
 }
+
+
 
 .user-profile {
     display: flex;
@@ -61,3 +64,4 @@
     margin-right: 30px;
     font-weight: 600;
 }
+
